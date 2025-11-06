@@ -1,0 +1,1 @@
+# aula-react-native-20251106
